@@ -29,10 +29,12 @@ Gesture recognition enables scrolling and right-click actions.
 ## Installation
 ```bash
 pip install -r requirements.txt
+```
 
 ## Run
 ```bash
 python virtual_mouse_full.py
+```
 
 ## Use Cases
 - Touchless computing
@@ -41,4 +43,5 @@ python virtual_mouse_full.py
 - Hands-free computer control
 
 ## Author
+
 - Poojitha Mavuri
